@@ -43,4 +43,4 @@ A simple Flutter application that fetches comments from an API, displaying them 
 ![signup](assets/snapshots/signup.png)
 ![comments](assets/snapshots/comments.png)
 ![comments mask](assets/snapshots/comments_mask.png)
-![demo](assets/snapshots/demo.mp4)
+[click here for demo video](https://drive.google.com/file/d/1uf_8iVcLeH5rtF9MnGC3WbhLAYMpCNvR/view?usp=sharing)
